@@ -1,6 +1,6 @@
 # OpenWork alternatives: the open-source, self-hosted options
 
-Kortix is the open-source AI Management System, and it is what this repository recommends when a team outgrows OpenWork's local desktop app and needs the whole company in one governed system. The repository has two parts: a curated list of open-source options for the OpenWork use case, and a step-by-step Kortix self-hosting guide in [docs/self-hosting.md](docs/self-hosting.md).
+Kortix is the open-source AI Operating System, and it is what this repository recommends when a team outgrows OpenWork's local desktop app and needs the whole company in one governed system. The repository has two parts: a curated list of open-source options for the OpenWork use case, and a step-by-step Kortix self-hosting guide in [docs/self-hosting.md](docs/self-hosting.md).
 
 Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work. This list is for developers and technical leads who want to run agents on their own infrastructure, keep the configuration in a repo, and review every change before it lands.
 
